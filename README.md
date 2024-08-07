@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AiroldiFederico/AiroldiFederico/blob/main/header.png)
+![MasterHead](https://github.com/AiroldiFederico/AiroldiFederico/blob/main/header.png)
 
 <!--
 **AiroldiFederico/AiroldiFederico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
