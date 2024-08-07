@@ -2,13 +2,13 @@
 
 # Discover my Code Space
 
+## Chi sono
+
 <p align="center">
   <img src="https://img.shields.io/badge/Età-23-blue" alt="Età">
   <img src="https://img.shields.io/badge/Città-Bergamo-green" alt="Città">
-  <img src="https://img.shields.io/badge/Compleanno-24%20Ottobre-red" alt="Compleanno">
+  <img src="https://img.shields.io/badge/Compleanno-24%20Ottobre%202000-red" alt="Compleanno">
 </p>
-
-## Chi sono
 
 Sono Federico Airoldi, un appassionato di tecnologia e innovazione con un forte interesse per l'esplorazione spaziale. Il mio obiettivo è utilizzare le mie competenze in programmazione e tecnologia per contribuire all'avanzamento scientifico e tecnologico.
 
