@@ -5,7 +5,7 @@
 ## Who I Am
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-23-blue" alt="Age">
+  <img src="https://img.shields.io/badge/Age-24-blue" alt="Age">
   <img src="https://img.shields.io/badge/City-Bergamo-green" alt="City">
   <img src="https://img.shields.io/badge/Birthday-October%2024,%202000-red" alt="Birthday">
 </p>
